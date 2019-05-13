@@ -1,3 +1,3 @@
 # Personal-Projects
 
-This is the project with whom I have graduated the C++ course held by Scoala Informala de IT from Timisoara
+This is the final project I have written in regard of completion my C++ course held by Informal School of IT in Timisoara.
