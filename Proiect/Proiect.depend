@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1539795739 source:f:\desktop\proiect final curs c++\proiect\main.cpp
+	"meniu.h"
+
+1539795632 source:f:\desktop\proiect final curs c++\proiect\src\agent.cpp
+	"Agent.h"
+	<string>
+
+1540331155 f:\desktop\proiect final curs c++\proiect\include\agent.h
+	<iostream>
+	<string>
+
+1539865469 source:f:\desktop\proiect final curs c++\proiect\src\sofer.cpp
+	"Sofer.h"
+
+1539865469 f:\desktop\proiect final curs c++\proiect\include\sofer.h
+	<string>
+	<iostream>
+	"Agent.h"
+
+1540331694 source:f:\desktop\proiect final curs c++\proiect\src\meniu.cpp
+	"Meniu.h"
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<cstdlib>
+
+1540331673 f:\desktop\proiect final curs c++\proiect\include\meniu.h
+	<vector>
+	"Agent.h"
+	"Amenda.h"
+
+1540331530 f:\desktop\proiect final curs c++\proiect\include\amenda.h
+	<string>
+	<iostream>
+	"Agent.h"
+
+1540331530 source:f:\desktop\proiect final curs c++\proiect\src\amenda.cpp
+	"Amenda.h"
+

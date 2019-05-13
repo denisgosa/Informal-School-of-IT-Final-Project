@@ -1,0 +1,4 @@
+Costel 1 4 250 2
+Mitica 3 7 500 3
+Denisa 5 9 300 5
+Ion 1 10 780 3
