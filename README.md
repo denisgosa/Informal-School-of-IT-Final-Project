@@ -7,6 +7,6 @@ The main objectives of the program were to write a piece of code that can hold i
 The program had to do the following:
 - Add a new officer
 - Delete an officer's record (along with all the fines that he applied)
-- Add a new fine and atribute that to an existing officer from the list
+- Add a new fine and add it to an existing officer from the list of officers
 - Show a specific officer's record of fines (search by officer's personal code)
 - Show a specific driver's record (search by driver's name)
